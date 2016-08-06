@@ -1,0 +1,101 @@
+#nav_ads{
+	background-color: rgb(145, 85, 182);
+	color: white;
+	height: 80px;
+}
+
+.container-fluid{
+	margin-top: 1%;
+}
+
+#let{
+	color: white;
+	font-size: 16px;
+	font-family:century gothic;
+}
+
+.well{
+	margin-left: 5%;
+	width: 90%;
+}
+
+#progress{
+	background-color: #8e44ad;
+}
+
+#in{
+	width: 60%;
+	margin-left: 2%;
+}
+
+#en{
+	width: 25%;
+	margin-left: 2%;
+	font-family: century gothic;
+}
+
+#g_user{
+	background-color:  #8e44ad;
+	font-family: century gothic;
+	color: white;
+	border-color: white;
+	margin-left: 2%;
+}
+
+#lbl{
+	margin-left: 2%;
+	font-family: century gothic;
+}
+
+#btn{
+	background-color: rgb(145, 85, 182);
+	color: white;
+	border-color: white;
+}
+
+#p_login{
+	background-color: rgb(145, 85, 182);
+	color: white;
+	border-color: rgb(145, 85, 182);
+}
+
+#b_cliente{
+	width: 30%;
+	border-color: rgb(145, 85, 182);
+}
+
+#btn_sub{
+	border-color: rgb(145, 85, 182);
+}
+
+#b_user{
+	width: 30%;
+	border-color: rgb(145, 85, 182);
+}
+
+#btn_cl{
+	border-color: rgb(145, 85, 182);
+}
+
+#btn_ing{
+	width: 60%;
+}
+
+#btn_can{
+	width: 60%;
+	margin-left: 20%;
+}
+
+/*#cb{
+	width: 0%;
+}*/
+
+#texto{
+	width: 60%;
+	margin-left: 2%;
+}
+
+#num{
+	width: 60%;
+	margin-left: 2%;
+}
